@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1507723769 source:c:\users\mariano\documents\mega\mega\analisis y diseño de algoritmos ii\tp especial 2017\tp especial 2017\main.cpp
+	<iostream>
+	"Tablero.h"
+	"Juego.h"
+	<stdlib.h>
+
+1507723152 source:c:\users\mariano\documents\mega\mega\analisis y diseño de algoritmos ii\tp especial 2017\tp especial 2017\src\tablero.cpp
+	"Tablero.h"
+
+1507723910 c:\users\mariano\documents\mega\mega\analisis y diseño de algoritmos ii\tp especial 2017\tp especial 2017\include\tablero.h
+	<iostream>
+
+1507723505 source:c:\users\mariano\documents\mega\mega\analisis y diseño de algoritmos ii\tp especial 2017\tp especial 2017\src\juego.cpp
+	"Juego.h"
+
+1507648544 c:\users\mariano\documents\mega\mega\analisis y diseño de algoritmos ii\tp especial 2017\tp especial 2017\include\juego.h
+	"Tablero.h"
+	<iostream>
+
