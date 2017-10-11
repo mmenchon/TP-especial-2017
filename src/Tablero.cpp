@@ -7,6 +7,8 @@ Tablero::Tablero()
     {
         matriz[i][j]=0;
     }
+    for (int i=0;i<TAM*TAM; i++)
+        g.agregarVertice(i);
 }
 
 Tablero::~Tablero()

@@ -1,6 +1,8 @@
 #ifndef TABLERO_H
 #define TABLERO_H
 #include <iostream>
+#include "../../../Clase Grafo/Grafo.h"
+
 using namespace std;
 
 const int PLAYER1=1;
@@ -24,6 +26,7 @@ class Tablero
 
     private:
         int matriz[TAM][TAM];
+        Grafo g;
 
 };
 
